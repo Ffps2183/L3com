@@ -2,7 +2,7 @@
 const users = JSON.parse(localStorage.getItem('users')) || [];
 
 // Mot de passe pour suppression (à changer selon vos besoins)
-const PASSWORD = 'correctpassword';
+const PASSWORD = 'Shellino#2183';
 
 // Fonction pour afficher les utilisateurs et les compteurs de voix
 function displayUsers() {
